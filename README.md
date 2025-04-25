@@ -25,7 +25,7 @@ The circuit diagram was drawn using **Fritzing software**.
 
 📷 *Insert circuit diagram here*  
 **(picture1)**
-![circuit diagram](arduino circuit)
+![circuit diagram](arduino_circuit)
 
 - **VCC** → **3.3V** on Arduino  
 - **GND** → **GND** on Arduino  
@@ -117,8 +117,7 @@ Then open your browser and go to:
 
 👉 [http://localhost:1880](http://localhost:1880)
 
-📷 *Insert screenshot of Node-RED running*  
-**(picture2)**
+![Node-RED flow](flow)
 
 ---
 
@@ -167,9 +166,7 @@ return null;
 
 After deploying the flow, the dashboard displays the temperature in real time.
 
-📷 *Insert dashboard screenshot here*  
-**(picture3)**
-
+![dashboard](dashboard)
 ---
 
 ## 🔗 References

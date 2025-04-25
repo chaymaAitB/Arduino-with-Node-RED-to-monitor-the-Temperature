@@ -25,7 +25,7 @@ The circuit diagram was drawn using **Fritzing software**.
 
 📷 *Insert circuit diagram here*  
 **(picture1)**
-![circuit diagram](arduino_circuit.jpeg)
+![circuit diagram](arduino circuit)
 
 - **VCC** → **3.3V** on Arduino  
 - **GND** → **GND** on Arduino  

@@ -173,4 +173,12 @@ After deploying the flow, the dashboard displays the temperature in real time.
 - [IoT Design Pro: Arduino with Node-RED](https://iotdesignpro.com/projects/interface-arduino-with-node-red-to-send-sensor-data-on-webpage)
 ```
 
-Let me know if you'd like this saved as a `.md` file or if you want help linking or visualizing the screenshots!
+---
+
+## 💬 Let Me Know
+
+If you have any questions or need further assistance, feel free to reach out. I’d love to hear your feedback!
+
+---
+
+Thank you for reading! 😄

@@ -47,19 +47,6 @@ This code reads temperature data from the DHT11 sensor and sends it over the ser
 #define DHTTYPE DHT11    // DHT 11
 
 DHT dht(DHTPIN, DHTTYPE); // Initialize the DHT sensor
-Sure! Here's that entire section rewritten **properly in Markdown format**:
-
-```markdown
-### 🧩 Libraries & Initialization
-
-```cpp
-#include <DHT.h>
-
-#define DHTPIN 2         // Pin where the DHT is connected
-#define DHTTYPE DHT11    // DHT 11
-
-DHT dht(DHTPIN, DHTTYPE); // Initialize the DHT sensor
-```
 
 ---
 

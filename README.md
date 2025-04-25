@@ -23,9 +23,7 @@ This project demonstrates how to read temperature data from a **DHT11 sensor** u
 
 The circuit diagram was drawn using **Fritzing software**.
 
-📷 *Insert circuit diagram here*  
-**(picture1)**
-![circuit diagram](arduino_circuit)
+![circuit diagram](arduino_circuit.jpeg)
 
 - **VCC** → **3.3V** on Arduino  
 - **GND** → **GND** on Arduino  
@@ -117,7 +115,7 @@ Then open your browser and go to:
 
 👉 [http://localhost:1880](http://localhost:1880)
 
-![Node-RED flow](flow)
+![Node-RED flow](flow.jpeg)
 
 ---
 
@@ -166,7 +164,8 @@ return null;
 
 After deploying the flow, the dashboard displays the temperature in real time.
 
-![dashboard](dashboard)
+![dashboard](dashboard.jpeg)
+
 ---
 
 ## 🔗 References
